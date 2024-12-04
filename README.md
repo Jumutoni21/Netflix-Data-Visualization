@@ -3,7 +3,7 @@
 **Steps to Run Python Program**
 Install Python: Ensure Python is installed on your PC.
 
-Unzip the File: Unzip the file "Jennifer's Netflix data analysis (1)".
+Unzip the File: Unzip the file "Jennifer's Netflix data Visualization".
 
 Set Up Environment:
 You should have either Anaconda or PyCharm installed to access Jupyter Notebook.
@@ -18,7 +18,7 @@ For data visualization, I used the most-watched movie titles instead of genres, 
 
 Install R: Ensure R is installed on your PC.
 
-Unzip the File: Unzip the file "Jennifer's Netflix data analysis (1)".
+Unzip the File: Unzip the file "Jennifer's Netflix data Visualization".
 
 Install ggplot2 Library: Install the ggplot2 library to generate plots.
 
